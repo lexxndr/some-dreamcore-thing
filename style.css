@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+#scery {
+    display: block;
+    width: 100%;
+    height: 910px;
+    padding: 0px;
+}
+#div {
+    overflow: hidden;
+}
